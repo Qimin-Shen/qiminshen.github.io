@@ -1,0 +1,18 @@
+---
+title: "Welcome to My Website"
+author: "Qimin Shen"
+date: "2025-01-29"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website.
+
+## About This Site  
+This site showcases my projects and research.
+
+### Quick Links  
+- [My GitHub Profile](https://github.com/Qimin-Shen)  
+- [Email Me](mailto:qimshen@bu.edu)
