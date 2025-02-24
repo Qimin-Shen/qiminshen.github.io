@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "Welcome to my Quarto website.\n\n\nThis site showcases my projects and research.\n\n\n\nMy GitHub Profile\n\nEmail Me"
-  },
-  {
     "objectID": "index.html#about-this-site",
     "href": "index.html#about-this-site",
     "title": "Welcome to My Website",
-    "section": "",
-    "text": "This site showcases my projects and research.\n\n\n\nMy GitHub Profile\n\nEmail Me"
+    "section": "About This Site",
+    "text": "About This Site\nThis site showcases my projects and research.\n\nQuick Links\n\nMy GitHub Profile\n\nEmail Me"
   },
   {
     "objectID": "about.html",
