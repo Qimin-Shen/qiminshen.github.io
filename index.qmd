@@ -7,6 +7,10 @@ format:
     theme: journal
     toc: true
 ---
+<div style="text-align: center;">
+  <img src="images/1.jpg" width="300px" alt="My photo">
+</div>
+
 # Hello, World!  
 Welcome to my Quarto website.
 
